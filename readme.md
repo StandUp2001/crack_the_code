@@ -16,6 +16,10 @@ After you have cloned the repository, you can run the program by using the follo
 cargo run
 ```
 
+```bash
+cargo run --release
+```
+
 ### With the binary
 
 After you have cloned the repository, you can use this executable file to run the program. You can run the program by using the following command:
